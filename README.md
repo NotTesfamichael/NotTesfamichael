@@ -1,7 +1,7 @@
 # Hey there! 👋 I'm Tesfamichael Aboset
 
 ## 🚀 DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD
-!(Alt text)(cover.png)
+!(Alt text)cover.png
 I'm a passionate DevOps Engineer on a mission to **automate everything** and **scale cloud infrastructures efficiently**. If it's manual, I'll script it. If it's slow, I'll optimize it. If it's complex, I'll simplify it! 😎
 
 ### 🌟 What I Do
