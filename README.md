@@ -21,7 +21,6 @@ I'm a passionate DevOps Engineer on a mission to **automate everything** and **s
 ### 📬 Let's Connect
 - 🚀 [LinkedIn](https://linkedin.com/in/tesfamichael-aboset)
 - 📖 [My Blog](#) (Coming soon... stay tuned!)
-- 🐦 [Twitter](https://twitter.com/yourhandle)
 
 ---
 💡 "Infrastructure should be **immutable**, pipelines should be **reliable**, and engineers should be **well-caffeinated** ☕!"
